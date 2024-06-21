@@ -1,0 +1,43 @@
+# Hi there, I'm Sristi Thanumalya GC 👋
+
+Welcome to my GitHub profile! I'm a passionate full-stack developer interested in all kinds of technology, participated in frontend and backend development as well .I gained some experience in the Java,Python and Front-end Languages.
+
+## About Me
+
+- 🌱 I’m currently learning Django Backend development
+- 👯 I’m looking to collaborate on Multiple projects and to boost my skills
+- 💬 wanna see my portfolio: [sristtii.com](https://sristtiii.netlify.app/)
+- 📫 How to reach me: [gcsristi04@gmail.com](mailto:gcsristi04@example.com)
+- ⚡ Fun fact: I'm a Certified Yapper
+
+## 🛠 Skills
+
+- **Languages:**
+  - HTML5,CSS
+  - Java
+  - Python
+
+- **Frameworks and Libraries:**
+  - Bootstrap
+  - Django
+
+- **Tools and Platforms:**
+  -  Version Control(Git,Github)
+  -  Visual Studio Code
+  -  Eclipse,Pycharm
+  -  SqlWorkbench
+
+## 📂 Projects
+
+### [Unity Arcade Games](https://github.com/sristtii?tab=repositories)
+- **Description:** a complete protoype of classic arcade games
+- **Technologies Used:** Unity aplication,C#
+  
+## 📫 Connect with Me
+
+- LinkedIn: [sristi-thanumalya-gc](www.linkedin.com/in/sristi-thanumalya-gc-817863293)
+- Personal Website: [sristtii.com](https://sristtiii.netlify.app/)
+
+ Thank you for visiting my GitHub profile! 
+ Feel free to explore my repositories and get in touch if you'd like to collaborate or just chat about tech.
+
