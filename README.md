@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer interested i
   
 ## 📫 Connect with Me
 
-- LinkedIn: [sristi-thanumalya-gc](www.linkedin.com/in/sristi-thanumalya-gc-817863293)
+- LinkedIn: [sristi-thanumalya-gc](https://www.linkedin.com/in/sristi-thanumalya-gc-817863293/)
 - Personal Website: [sristtii.com](https://sristtiii.netlify.app/)
 
  Thank you for visiting my GitHub profile! 
