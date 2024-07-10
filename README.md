@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer interested i
 
 ## 📂 Projects
 
-### Check out my repos....(https://github.com/sristtii?tab=repositories)
+### Check out my repos....[Click here!!!](https://github.com/sristtii?tab=repositories)
   
 ## 📫 Connect with Me
 
