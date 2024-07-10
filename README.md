@@ -29,9 +29,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer interested i
 
 ## 📂 Projects
 
-### [Unity Arcade Games](https://github.com/sristtii?tab=repositories)
-- **Description:** a complete protoype of classic arcade games
-- **Technologies Used:** Unity aplication,C#
+### Check out my repos....(https://github.com/sristtii?tab=repositories)
   
 ## 📫 Connect with Me
 
